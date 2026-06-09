@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Teaching Programming'
+project = 'Python Basics'
 copyright = '2026, Kristian Rother'
 author = 'Kristian Rother'
 release = '1.0'
@@ -30,10 +30,10 @@ language = 'ls'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
-html_theme_path = ['themes']
 html_static_path = ['_static']
-#html_logo = "_static/banner_wide.svg"
+html_logo = "_static/academis.png"
 html_favicon = "_static/favicon.ico"
+
 
 html_css_files = [
     "academis.css",
