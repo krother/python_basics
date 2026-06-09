@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Teaching Programming'
-copyright = '2023, Kristian Rother'
+copyright = '2026, Kristian Rother'
 author = 'Kristian Rother'
 release = '1.0'
 
@@ -29,23 +29,17 @@ language = 'ls'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'furo'
 html_theme_path = ['themes']
 html_static_path = ['_static']
 #html_logo = "_static/banner_wide.svg"
 html_favicon = "_static/favicon.ico"
 
-html_sidebars = {
-    '**': [
-        'about.html',
-        'localtoc.html',
-        'searchbox.html',
-    ]
-}
+html_css_files = [
+    "academis.css",
+]
 html_theme_options = {
-    'logo': 'academis.png',
-    'github_user': 'krother',
-    'github_repo': 'Python3_Basics_Tutorial',
-    'show_relbar_top' : True,
-    'show_relbar_bottom' : True,
+    "source_repository": "https://github.com/krother/python_basics",
+    "source_branch": "main",
+    "source_directory": "",
 }
