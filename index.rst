@@ -128,7 +128,7 @@ Appendix
 
 .. topic:: License
 
-   © 2023 Dr. Kristian Rother
+   © 2026 Dr. Kristian Rother
 
    with contributions by Allegra Via, Kaja Milanowska, Anna Philips,
    @ShalokShalom and @devSython.

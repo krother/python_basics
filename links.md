@@ -15,7 +15,6 @@
 
 ## Official Python Documentation
 
-* Main documentation and tutorial](http://www.python.org/doc)
-* Python Library Reference covering the language basics: [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html)
-* Global Module Index – description of standard modules:
-[https://docs.python.org/3/py-modindex.html](https://docs.python.org/3/py-modindex.html)
+* [Main documentation and tutorial](http://www.python.org/doc)
+* [Python Library Reference covering the language basics](https://docs.python.org/3/library/index.html)
+* [Global Module Index – description of standard modules](https://docs.python.org/3/py-modindex.html)
