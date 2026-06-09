@@ -1,6 +1,8 @@
 Python Exercises for Beginners
 ==============================
 
+.. figure:: images/serpents.jpg
+
 Here you find exercises for people new to Python.
 I wrote them for teachers looking for material
 and people learning Python by themselves.
