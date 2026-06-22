@@ -16,6 +16,8 @@ area topic
 🐞   add diagnostic print statements
 ==== ==============================================
 
+.. figure:: debugging.png
+
 Exercise 1: Execute the program
 -------------------------------
 
