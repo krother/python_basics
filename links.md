@@ -4,9 +4,9 @@
 
 ## Tutorials and Books
 
-# [www.academis.eu](https://www.academis.eu) – tutorials and exercises by **Kristian Rother**
-* [Think Python](https://allendowney.github.io/ThinkPython/) – a very systematic, scientific tutorial by **Allen B. Downey**
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) – by **Al Sweigart**
+- [www.academis.eu](https://www.academis.eu) – tutorials and exercises by **Kristian Rother**
+- [Think Python](https://allendowney.github.io/ThinkPython/) – a very systematic, scientific tutorial by **Allen B. Downey**
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) – by **Al Sweigart**
 - [Python Basics Tutorial](https://python-basics-tutorial.readthedocs.io/en/latest/) – covers many software engineering tools by **Veit Schiele**
 
 ----
