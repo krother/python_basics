@@ -5,6 +5,8 @@ Writing all instructions into a single sequence creates programs that
 are hard to debug. Here, you learn to break the code down into smaller
 units: **functions**.
 
+.. figure:: functions.svg
+
 In this chapter you learn:
 --------------------------
 
